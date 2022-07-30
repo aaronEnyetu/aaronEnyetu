@@ -8,7 +8,7 @@
 About Aaron⚡:
 I'm a Software Engineer living in Austin, TX. Outside Tech, I love to grow crops, explore nature and coffee shops. If you are around Austin, drop an email and let's catch-up over Coffee!
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently a full stack software engineer at Alchemy Code Lab where I am developing full command of in-demand technologies, team and remote environment best practices, and strong communication and collaboration skills. In this particular role, I am empowered to drive innovation by coming up with new and exciting ideas to creatively solve issues, as well as proactively look for opportunities to improve the design, interface and server architecture of web applications.
 
 Skillz {
 
@@ -27,11 +27,12 @@ Skillz {
  }
 
 
-Check out my LinkedIn: https://laxmena.com
+Connect: https://www.linkedin.com/in/aaron-enyetu
 
-Know more about me: About Laxmena
-
-Write to me: ConnectWith@laxmena.com
+Know more about me: About Aaron
 
 📫 How to reach me:
-ConnectWith@laxmena.com LinkedIn
+
+Write to me: aaronenyetu@gmail.com
+
+
