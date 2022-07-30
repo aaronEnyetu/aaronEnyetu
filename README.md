@@ -3,12 +3,19 @@
 
 
 Skills {
+
   languages: [ 'Javascript', 'HTML', 'CSS', 'C#', 'C++', 'C' ],
+  
   frameworks_and_libraries: [ 'React', 'Node.js', 'Express' ],
+  
   databases: [ 'SQL/Postgres' ],
+  
   testing_suites: [ 'Jest' ],
+  
   tools_etc: [ 'GitHub', 'Git', 'Postman', 'Beekeeper Studio', 'Netlify', 'Herohu' ],
+  
   learning: [ 'Python', 'Model-View-ViewModel (MVVM)', '' ]
+  
  }
  
  - 🔭 I’m currently working on ...
