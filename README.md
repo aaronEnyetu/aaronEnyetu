@@ -6,21 +6,11 @@
 ### Hi there 👋
 - 🌱 I’m currently learning 
 
-
-Skills {
-
-  languages: [ 'Javascript', 'HTML', 'CSS', 'C#', 'C++', 'C' ],
-  
-  frameworks_and_libraries: [ 'React', 'Node.js', 'Express' ],
-  
+Skillz {
+  languages: [ 'Javascript', 'Typescript', 'Python', 'HTML', 'CSS' ],
+  frameworks_and_libraries: [ 'React', 'Vue', 'Redux', 'Next.js', 'Node', 'Express' ],
   databases: [ 'SQL/Postgres' ],
-  
-  testing_suites: [ 'Jest' ],
-  
-  tools: [ 'GitHub', 'Git', 'Postman', 'Beekeeper Studio', 'Netlify', 'Herohu' ],
-  
-  learning: [ 'Python', 'Model-View-ViewModel (MVVM)', '' ]
-  
+  testing_suites: [ 'Jest', 'Supertest', 'QUnit' ],
+  tools_etc: [ 'Git/hub', 'Postman', 'PGAdmin', 'Adobe CC' ],
+  learning: [ 'Three.js', 'React Native', '& more!' ]
  }
- 
- -->
