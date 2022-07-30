@@ -8,13 +8,15 @@
 About Aaron⚡:
 I'm a Software Engineer living in Austin, TX. Outside Tech, I love to grow crops, explore nature and coffee shops. If you are around Austin, drop an email and let's catch-up over Coffee!
 
-- 🌱 I’m currently a full stack software engineer at Alchemy Code Lab where I am developing full command of in-demand technologies, team and remote environment best practices, and strong communication and collaboration skills. In this particular role, I am empowered to drive innovation by coming up with new and exciting ideas to creatively solve issues, as well as proactively look for opportunities to improve the design, interface and server architecture of web applications.
+- 🌱 I’m currently a full-stack software engineer at Alchemy Code Lab where I am developing full command of in-demand technologies, team and remote environment best practices, and strong communication and collaboration skills. In this particular role, I am empowered to drive innovation by coming up with new and exciting ideas to creatively solve issues, as well as proactively look for opportunities to improve the design, interface and server architecture of web applications.
 
-Skillz {
+Skills {
 
   languages: [ 'Javascript', 'HTML', 'CSS', 'C#', 'C', 'C++', 'Visual Basic' ],
   
-  frameworks_and_libraries: [ 'React', 'Node', 'Express' ],
+  code_editors: [ 'VSCode', '.NET Framework', 'Codespaces' ], 
+  
+  frameworks_and_libraries: [ 'React', 'Node', 'Express', 'JSON' ],
   
   databases: [ 'SQL/Postgres' ],
   
