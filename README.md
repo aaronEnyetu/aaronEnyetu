@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **C#, Next.js, Three.js, TypeScript, Blender, and Python Projects**
  
- 🌱 I’m currently learning **Machine Learning, AI, Python with Tkinter and Kivy, Mobile Apps with Xamarin, Game Development with Unity**
+ 🌱 I’m currently learning **Machine Learning, AI, Mobile Apps with Xamarin, Game Development with Unity**
 
 💬 Ask me about **WebGL, Three.js, React 3 Fiber, C#, C++, Python, JavaScript, React**
 
