@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **Next.JS, Three.Js, TypeScript,Blender,**
  
- 🌱 I’m currently learning **Machine Learning, AI,**
+ 🌱 I’m currently learning **Machine Learning, AI, Python with Tkinter and Kivy, Mobile Apps with Xamarin **
 
-💬 Ask me about **Node.js, React.js, JavaScript, HTML, CSS,  **
+💬 Ask me about **WebGl, Three.js, React 3 Fiber, C#, C++, Python, JavaScript,   **
 
 ⚡ Fun fact **I love Nature**
 
@@ -37,9 +37,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools-Databases-Libraries ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,c#,c++,Java,glsl,asp.net" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,c,java,nextjs,react 3 fiber,blender,unity" /><br>
-    <img src="https://skillicons.dev/icons?i=webgl,vite,threejs, postgresql, supabase, postman, beekeeper studio, heroku, netlify, vercel" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,c,java,nextjs," /><br>
+    <img src="https://skillicons.dev/icons?i=vite, postgresql, supabase, postman, heroku, netlify, vercel" /><br>
 </div>
 
 <br/>
