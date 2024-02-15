@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Machine Learning, AI, Python with Tkinter and Kivy, Mobile Apps with Xamarin, Game Development with Unity**
 
-💬 Ask me about **WebGl, Three.js, React 3 Fiber, C#, C++, Python, JavaScript, React**
+💬 Ask me about **WebGL, Three.js, React 3 Fiber, C#, C++, Python, JavaScript, React**
 
 ⚡ Fun fact **I like to support coffee growers, so please click on the buymeacoffee button**
 
