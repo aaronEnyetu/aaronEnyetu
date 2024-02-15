@@ -39,8 +39,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,c,java,nextjs," /><br>
-    <img src="https://skillicons.dev/icons?i=vite, postgresql, supabase, postman, heroku, netlify, vercel,dotnet, blender" /><br>
-  
+    <img src="https://skillicons.dev/icons?i=vite, postgresql, supabase, postman, heroku, netlify, vercel,dotnet, blender" /><br>  
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 </div>
 
