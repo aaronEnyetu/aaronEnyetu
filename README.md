@@ -1,40 +1,77 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aaron+Enyetu!;" />
+</h1>
 
-![Screenshot 2022-07-29 160712](https://user-images.githubusercontent.com/81841527/181862731-69faee64-7a0f-438f-9bda-77b44bb195cc.jpg)
+<h3 align="center">A passionate software developer based in Austin, TX</h3>
 
+<br/>
 
-### Hi there 👋
+<div align="center">
+ 
+ 🔭 I’m currently working on **Next.JS, Three.Js, TypeScript,Blender,**
+ 
+ 🌱 I’m currently learning **Machine Learning, AI,**
 
-About Aaron⚡:
-I'm a Software Engineer living in Austin, TX. Outside Tech, I love to grow crops, explore nature and coffee shops. If you are around Austin, drop an email and let's catch-up over Coffee!
+💬 Ask me about **Node.js, React.js, JavaScript, HTML, CSS,  **
 
-- 🌱 I’m currently a full-stack software engineer at Alchemy Code Lab where I am developing full command of in-demand technologies, team and remote environment best practices, and strong communication and collaboration skills. In this particular role, I am empowered to drive innovation by coming up with new and exciting ideas to creatively solve issues, as well as proactively look for opportunities to improve the design, interface and server architecture of web applications.
+⚡ Fun fact **I love Nature**
 
-Skills {
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:aaronenyetu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/aaron-enyetu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://aaron-enyetu-3d-portfolio.vercel.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-  languages: [ 'Javascript', 'HTML', 'CSS', 'C#', 'C', 'C++', 'Visual Basic' ],
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools-Databases-Libraries ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,c#,c++,Java,glsl,asp.net" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,c,java,nextjs,react 3 fiber,blender,unity" /><br>
+    <img src="https://skillicons.dev/icons?i=webgl,vite,threejs, postgresql, supabase, postman, beekeeper studio, heroku, netlify, vercel" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/aaronEnyetu/aaronEnyetu/output/github-contribution-grid-snake.svg" />
   
-  code_editors: [ 'VSCode', '.NET Framework', 'Codespaces' ], 
-  
-  frameworks_and_libraries: [ 'React', 'Node', 'Express', 'JSON' ],
-  
-  databases: [ 'SQL/Postgres' ],
-  
-  testing_suites: [ 'Jest' ],
-  
-  tools: [ 'GitHub', 'Postman', 'Git', 'Beekeeper Studio', 'Netlify', 'Heroku' ],
-  
-  learning: [ 'Python', 'Typescript', 'Model-View-ViewModel (MVVM)' ]
-  
- }
+  <br/><br/><br/>
+</div>
 
+<hr/>
 
-Connect: https://www.linkedin.com/in/aaron-enyetu
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-aaronEnyetu.vercel.app/?user=aaronEnyetu&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-aaronEnyetu.vercel.app/api?username=aaronEnyetu&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-aaronEnyetu.vercel.app/api/top-langs/?username=aaronEnyetu&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-Know more about me: About Aaron
+<br/><br/>
 
-📫 How to reach me:
+<hr/>
 
-Write to me: aaronenyetu@gmail.com
+<br/>
 
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
 
+<br/>
