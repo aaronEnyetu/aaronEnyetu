@@ -59,5 +59,5 @@
 
     [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aaronEnyetu)](https://github.com/aaronEnyetu/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronEnyetu&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronEnyetu&langs_count=15)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronEnyetu&layout=compact)
