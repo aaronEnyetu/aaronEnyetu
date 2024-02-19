@@ -45,7 +45,10 @@
 
 <br/>
 <hr/>
+<div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronEnyetu)](https://github.com/aaronEnyetu/github-readme-stats)
+    
+</div>
 
 
 <div align="center">
