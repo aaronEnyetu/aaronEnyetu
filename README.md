@@ -33,9 +33,7 @@
 </div>
 
  <hr/>
- <div>
-     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronenyetu)](https://github.com/aaronenyetu/github-readme-stats)
- </div>
+ 
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools-Databases-Libraries ⚒️</h2>
 <br/>
@@ -48,10 +46,7 @@
 
 <br/>
 <hr/>
-<div>
 
-    
-</div>
 
 
 <div align="center">
@@ -59,3 +54,8 @@
 </div>
 
 <br/>
+
+
+<div>
+     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronenyetu)](https://github.com/aaronenyetu/github-readme-stats)
+ </div>
