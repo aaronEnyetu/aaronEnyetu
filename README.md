@@ -34,7 +34,7 @@
 
  <hr/>
  <div>
-     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronEnyetu)](https://github.com/aaronEnyetu/github-readme-stats)
+     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronenyetu)](https://github.com/aaronenyetu/github-readme-stats)
  </div>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools-Databases-Libraries ⚒️</h2>
