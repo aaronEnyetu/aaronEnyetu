@@ -57,7 +57,7 @@
 
 
 <div>
-     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronenyetu)](https://github.com/aaronenyetu/github-readme-stats)
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronEnyetu&show_icons=true&theme=transparent)
  </div>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronEnyetu)](https://github.com/aaronEnyetu/github-readme-stats)
