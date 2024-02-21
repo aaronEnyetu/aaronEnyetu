@@ -14,9 +14,9 @@
  
  🌱 I’m currently learning **Machine Learning, AI, Mobile Apps with Xamarin, Game Development with Unity**
 
-💬 Ask me about **WebGL, Three.js, React 3 Fiber, C#, C++, Python, JavaScript, React**
+💬 Ask me about **Web App Development, 3D Modeling, Computer Animation, Creative Website Design, Agriculture, Software Engineering, Computer Science**
 
-⚡ Fun fact **I like to support coffee growers, so please click on the buymeacoffee button**
+⚡ Fun fact **I like to grow plants**
 
  </div>
  
